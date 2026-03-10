@@ -111,6 +111,4 @@ https://raw.githubusercontent.com/<your-username>/xiamen_k12_calendar/main/xiame
 
 ## 注意事项
 
-- GitHub 仓库名我已按可维护和下载兼容性，规范化为：`xiamen_k12_calendar`
-- 若你坚持中文仓库名，也可以，但为了链接兼容与文件管理稳定，**推荐英文仓库名**
-- “补课 / 调休”强烈建议以官方年度校历发布后再补入 JSON
+
