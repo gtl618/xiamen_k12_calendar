@@ -1,0 +1,43 @@
+{
+  "academic_year": "2025-2026",
+  "scope": "厦门中小学（小学/初中）",
+  "status": "confirmed_partial",
+  "notes": "根据已公开的2025-2026学年厦门中小学校历信息整理；补课日期暂缺，待后续官方通知。",
+  "events": [
+    {
+      "summary": "暑假",
+      "start": "2025-07-05",
+      "end": "2025-08-31",
+      "all_day": true,
+      "description": "小学、初中暑假"
+    },
+    {
+      "summary": "秋季学期开学 / 正式上课",
+      "start": "2025-09-01",
+      "end": "2025-09-01",
+      "all_day": true,
+      "description": "小学、初中2025年秋季学期开学"
+    },
+    {
+      "summary": "学期结束",
+      "start": "2026-01-30",
+      "end": "2026-01-30",
+      "all_day": true,
+      "description": "小学、初中2025-2026学年第一学期结束"
+    },
+    {
+      "summary": "寒假",
+      "start": "2026-01-31",
+      "end": "2026-02-25",
+      "all_day": true,
+      "description": "小学、初中寒假"
+    },
+    {
+      "summary": "春季学期开学 / 正式上课",
+      "start": "2026-02-26",
+      "end": "2026-02-26",
+      "all_day": true,
+      "description": "小学、初中2026年春季学期开学"
+    }
+  ]
+}
